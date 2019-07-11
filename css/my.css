@@ -1,0 +1,99 @@
+.body{
+    /* font-size: 12px; */
+    margin:0px auto;
+    width: 675px;
+}
+img{
+    margin:aout;
+    }
+
+    .toptext{
+    font-family: 'M PLUS 1p', sans-serif;
+    font-size: 20px;
+    margin:0px 0px;
+            }
+
+
+/* .topimg{ 
+    margin:0px 0px;
+    width: 675px;
+    height:  120px;
+    background-image: url("../img/topimg.png");
+    background-size: contain;
+    } */
+
+
+    .topbox{
+    /* margin:0px 0px; */
+    width: 675px;
+    height:  200px;
+    background-image: url("../img/topimg.png");
+    background-size: contain;
+        }
+   img.toprogo{
+    /* margin:0px 0px; */
+    
+    width: 650px;
+    height:  200px;
+
+        }
+
+/* label{
+    font-size: 14px;
+    margin:0px auto;
+    font-family: 'M PLUS 1p', sans-serif;
+    color: #a8daa8;
+} */
+
+.MG0{
+margin-bottom:0px ;
+}
+
+.form-MP{
+margin-bottom:12px ;
+}
+
+
+
+P{
+padding:0;
+margin:0px;
+}
+.coin{
+    padding:0px;
+    padding:0;
+    width: 100px;
+
+
+}
+.happy_coin{
+font-size: 95px;
+width: 540px;
+font-family: 'Barlow', sans-serif;
+text-align: right;
+color: #006400;
+margin:93px 40px 0px 10px;
+    }
+
+.happycoin_total {
+    background-image: url("../img/happycoin_total.png");
+    height: 250px;
+    width: 650px;
+    background-size: contain;
+
+
+}
+.brandMP{
+font-family: 'Barlow', sans-serif;
+color: #006400;
+margin:10px 20px 10px 0px;
+font-size: 36px;
+    }
+
+    .navbarMP{
+font-family: 'Barlow', sans-serif;
+color: #006400;
+margin:10px 20px 10px 0px;
+font-size: 36px;
+    }
+
